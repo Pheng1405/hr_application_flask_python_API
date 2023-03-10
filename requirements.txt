@@ -1,0 +1,8 @@
+flask
+flask-smorest
+flask-sqlalchemy
+flask-jwt-extended
+sqlalchemy
+gunicorn
+pyodbc
+pandas

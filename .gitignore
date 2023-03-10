@@ -1,0 +1,6 @@
+.venv
+.idea
+.env
+Dockerfile
+__pycache__
+*.pyc
